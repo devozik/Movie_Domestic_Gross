@@ -1,5 +1,5 @@
 getwd()
-setwd('/Users/igorbartkowski/Downloads')
+setwd('/Users/xxxx/xxxx')
 movies <- read.csv('Section6-Homework-Data.csv')
 head(movies)
 str(movies)
